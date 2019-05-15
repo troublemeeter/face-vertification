@@ -128,3 +128,5 @@ https://blog.csdn.net/tinyzhao/article/details/53015724
 <https://blog.csdn.net/cyh_24/article/details/49059475>
 
 <https://wenku.baidu.com/view/851d51e3647d27284a735164.html?re=view>
+
+<https://github.com/cyh24/Joint-Bayesian>
