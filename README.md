@@ -69,9 +69,9 @@ G & F+G \\
 >   }}$：${{S}_{\mu }}\text{=}\operatorname{cov}(\mu
 >   ),{{S}_{\varepsilon }}=\operatorname{cov}(\varepsilon )$
 
+![](media/aef476a15f0600dd5d30ef319f8ac247.png)
 ![](media/2f2bded36cac642d8547c51e86e49b6b.png)
 
-![](media/aef476a15f0600dd5d30ef319f8ac247.png)
 
 ### 实验
 
