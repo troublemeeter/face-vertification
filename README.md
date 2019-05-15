@@ -1,0 +1,2 @@
+# face-vertification
+joint bayesian
